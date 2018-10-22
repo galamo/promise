@@ -1,4 +1,4 @@
-let url = "https://min-api.cryptocompare.com/price?fsym=ETH&tsyms=BTC,USD,EUR";
+let url = "https://min-api.cryptocompare.com/data/price?fsym=ETH&tsyms=BTC,USD,EUR";
 
 
 //decleration
